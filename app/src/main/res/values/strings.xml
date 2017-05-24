@@ -4,14 +4,14 @@
     <string name="false_button">False</string>
     <string name="correct_toast">Correct!</string>
     <string name="incorrect_toast">Incorrect!</string>
-    <string name="question_usa">New York is the capital of United States.</string>
-    <string name="question_canada">Vancouver is the capital of Canada.</string>
-    <string name="question_japan">Tokyo is the capital of Japan.</string>
-    <string name="question_france">Paris is the capital of France.</string>
-    <string name="question_brazil">Rio de Janeiro is the capital of Brazil.</string>
-    <string name="question_italy">Rome is the capital of Italy.</string>
-    <string name="question_australia">Sidney is the capital of Australia.</string>
-    <string name="question_spain">Madrid is the capital of Spain.</string>
-    <string name="question_germany">Munich is the capital of Germany.</string>
-    <string name="question_netherlands">Amsterdam is the capital of Netherlands.</string>
+    <string name="question_usa">1. New York is the capital of United States.</string>
+    <string name="question_canada">2. Vancouver is the capital of Canada.</string>
+    <string name="question_japan">3. Tokyo is the capital of Japan.</string>
+    <string name="question_france">4. Paris is the capital of France.</string>
+    <string name="question_brazil">5. Rio de Janeiro is the capital of Brazil.</string>
+    <string name="question_italy">6. Rome is the capital of Italy.</string>
+    <string name="question_australia">7. Sidney is the capital of Australia.</string>
+    <string name="question_spain">8. Madrid is the capital of Spain.</string>
+    <string name="question_germany">9. Munich is the capital of Germany.</string>
+    <string name="question_netherlands">10. Amsterdam is the capital of Netherlands.</string>
 </resources>

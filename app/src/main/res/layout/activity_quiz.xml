@@ -14,8 +14,10 @@
         android:layout_height="wrap_content"
         android:padding="24dp"
         android:text="@string/question_usa"
-        android:textColor="@color/purple_rain"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold"
         android:textSize="18sp"
+        android:textAlignment="center"
         />
 
     <LinearLayout
@@ -49,7 +51,8 @@
             android:layout_height="50dp"
             android:layout_marginRight="25dp"
             android:background="@android:drawable/ic_media_rew"
-            android:backgroundTint="@android:color/holo_green_dark" />
+            android:backgroundTint="@android:color/holo_red_light"
+             />
 
         <ImageButton
             android:id="@+id/next_question"
@@ -57,7 +60,8 @@
             android:layout_height="50dp"
             android:layout_marginLeft="25dp"
             android:background="@android:drawable/ic_media_ff"
-            android:backgroundTint="@android:color/holo_orange_light" />
+            android:backgroundTint="@android:color/holo_green_dark"
+             />
 
     </LinearLayout>
 </LinearLayout>
