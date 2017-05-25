@@ -171,7 +171,7 @@ public class QuizActivity extends AppCompatActivity {
             double result = (double) correct/questions.length;
             Toast res = new Toast(getApplicationContext());
             res.makeText(QuizActivity.this, "Your score: " + pct.format(result), Toast.LENGTH_LONG).show();
-            correct = 0;
+            correct = 0;    //  resets the score when you go back to first question.
         }
     }
 }
